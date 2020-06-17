@@ -30,9 +30,9 @@ Create a power point and report it.
 To create a responsive dashborad for the stakeholders 
 Display data and summary
 
-![](Images/M3_1.jpg)
+![](Images/M3_1.png)
 
-![](Images/M3_2.jpg)
+![](Images/M3_2.png)
 
-![](Images/M3_3.jpg)
+![](Images/M3_3.png)
 
